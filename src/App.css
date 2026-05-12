@@ -1,0 +1,15 @@
+body {
+    font-family: 'Chromatica', sans-serif;
+  }
+  .custom-logo {
+    width: 250px;
+    height: auto;
+    margin-left: -60px;
+  }
+  
+  @media (max-width: 576px) {
+    .custom-logo {
+      margin-left: 40px !important;
+    }
+  }
+  
