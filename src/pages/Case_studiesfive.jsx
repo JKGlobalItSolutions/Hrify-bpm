@@ -51,7 +51,7 @@ const Case_studiesfive = () => {
 
         <div className="col-md-6">
           <div className="card h-100 shadow-sm">
-          <div className="card-body" style={{ fontFamily: 'Chromatica, sans-serif' }}>
+          <div className="card-body" style={{ fontFamily: 'Inter, sans-serif' }}>
   <h5 className="card-title text-danger text-center fw-bold mb-3">Namma People’s Approach</h5>
   <ul className="list-unstyled text-muted">
     <li>• Developed geo-targeted job campaigns focusing on high-skill labor zones to ensure localized efficiency.</li>
