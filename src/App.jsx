@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter, Router, Route, Routes, HashRouter } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
@@ -53,7 +53,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <HashRouter basename='/Hrify-Bpm/'>
+    <HashRouter>
     {/* <Router  > */}
       <Navbar />
       
