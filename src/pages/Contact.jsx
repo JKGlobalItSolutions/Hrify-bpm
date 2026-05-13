@@ -27,7 +27,7 @@ const Contact = () => {
           {/* Connect With Nammapeople Form Column */}
           <div className="col-md-6">
             <div className="bg-white p-4 rounded shadow">
-              <h3 className="text-center text-danger mb-4">Connect With Nammapeople</h3>
+              <h3 className="text-center text-danger mb-4">Connect With Hrify BPM</h3>
               <form>
                 <div className="row g-3">
                   <div className="col-md-6">
@@ -132,13 +132,13 @@ const Contact = () => {
                 opp collector Office <br />
                 Vengikkal <br />
                 Tiruvannamalai-606604<br />
-              8438438413, 8807880764
+                8608600778
               </p>
 
               {/* Google Map Embed */}
               <div className="map-container">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3774.410471739315!2d72.83361101674513!3d19.216250546102553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b8362fe6b089%3A0x67298c4fc0b92a06!2sNammapeople!5e0!3m2!1sen!2sin!4v1681328684374!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1752.0795180960993!2d79.06501537804527!3d12.274736402887832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bacc1e138ac2625%3A0x8693e592d83a0e80!2sHrify%20Technologies%20pvt%20Ltd!5e0!3m2!1sen!2sin!4v1778659163571!5m2!1sen!2sin"
                   width="100%"
                   height="350"
                   style={{ border: 0 }}

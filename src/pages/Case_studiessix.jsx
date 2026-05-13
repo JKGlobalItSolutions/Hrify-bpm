@@ -7,18 +7,18 @@ import img from '../assets/imges/about/casestudieslastimg.jpg'
 const CaseStudiessix = () => {
   return (
     <div className="container my-5">
-      <h1 className="mb-3 text-danger text-center">130+ Hires in 3 Weeks: How Namma People Delivered Under Pressure for a Financial Services Leader</h1>
+      <h1 className="mb-3 text-danger text-center">130+ Hires in 3 Weeks: How Hrify BPM Delivered Under Pressure for a Financial Services Leader</h1>
    
 
       <img src={img} alt="Financial Services Case Study" className="img-fluid rounded  w-50 mx-auto d-block mb-4" />
 
       <h4 className="text-danger text-center">Executive Summary</h4>
       <p>
-        A leading U.S.-based financial services provider partnered with Namma People to address an urgent hiring need.
+        A leading U.S.-based financial services provider partnered with Hrify BPM to address an urgent hiring need.
         Faced with tight timelines and a competitive labor market, they required 130+ Retirement Plan Service Representatives within three weeks and over 200 full-time employees within eight months.
       </p>
       <p>
-        The outcome was an outright success. Learn how Namma People strategically solved the issue and secured the #1 ranking across all performance metrics. See how we demonstrated what a reliable and confident workforce partner can achieve under pressure, going above and beyond every expectation.
+        The outcome was an outright success. Learn how Hrify BPM strategically solved the issue and secured the #1 ranking across all performance metrics. See how we demonstrated what a reliable and confident workforce partner can achieve under pressure, going above and beyond every expectation.
       </p>
 
       <h4 className="text-danger text-center">Client Overview</h4>

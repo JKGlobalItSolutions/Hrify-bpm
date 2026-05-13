@@ -44,8 +44,8 @@ const Footer = () => {
   </div>
 
   {/* Bottom bar */}
-  <div className="py-3 text-white" style={{ backgroundColor: '#8B0000' }}>
-    <p className="mb-2">© 2025 Namma Peoole. All Rights Reserved</p>
+  <div className="py-3 text-white" style={{ backgroundColor: '#0080a7' }}>
+    <p className="mb-2">© 2025 Hrify BPM. All Rights Reserved</p>
     {/* Social Icons */}
     <div>
       <a href="#" className="text-white mx-2"><i className="fa-brands fa-facebook-f"></i></a>

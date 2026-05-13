@@ -7,7 +7,7 @@ const Case_studiesthree = () => {
   return (
     <div className="container my-5">
       <h1 className="text-danger text-center mb-3">
-        Namma People’s Strategic Recruitment of HVAC, Plumbing, and Electrical Engineers
+        Hrify BPM’s Strategic Recruitment of HVAC, Plumbing, and Electrical Engineers
       </h1>
     
 
@@ -21,13 +21,13 @@ const Case_studiesthree = () => {
         <div className="card-body">
           <h5 className="card-title text-danger text-center">Executive Summary</h5>
           <p>
-            A leading US-based energy and materials company partnered with <strong>Namma People</strong> to tackle an urgent talent acquisition challenge.
+            A leading US-based energy and materials company partnered with <strong>Hrify BPM</strong> to tackle an urgent talent acquisition challenge.
           </p>
           <p>
-            Within just three months, <strong>Namma People</strong>’s expert hiring team successfully sourced and placed skilled HVAC, plumbing, and electrical design engineers—accelerating project timelines and optimizing workforce efficiency.
+            Within just three months, <strong>Hrify BPM</strong>’s expert hiring team successfully sourced and placed skilled HVAC, plumbing, and electrical design engineers—accelerating project timelines and optimizing workforce efficiency.
           </p>
           <p>
-            By combining deep industry insights with agile recruiting methods, <strong>Namma People</strong> earned recognition as the client’s top operations supplier, delivering beyond expectations with speed, accuracy, and commitment.
+            By combining deep industry insights with agile recruiting methods, <strong>Hrify BPM</strong> earned recognition as the client’s top operations supplier, delivering beyond expectations with speed, accuracy, and commitment.
           </p>
         </div>
       </div>

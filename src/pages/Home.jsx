@@ -255,7 +255,7 @@ const Home = () => {
           <div className="col-md-6 p-0">
             <div
               className="h-100 text-white d-flex flex-column justify-content-center position-relative p-5"
-              style={{ backgroundColor: '#8B0000' }}
+              style={{ backgroundColor: '#0080a7' }}
             >
               <div
                 style={{

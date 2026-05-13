@@ -21,7 +21,7 @@ const Case_studiesfive = () => {
           <h5 className="card-title text-danger text-center">Executive Summary</h5>
           <p>
             When a global manufacturing giant faced unprecedented demand across their production facilities,
-            Namma People stepped in with precision hiring solutions. We rapidly sourced and onboarded
+            Hrify BPM stepped in with precision hiring solutions. We rapidly sourced and onboarded
             over 300 specialized personnel across engineering, logistics, and QA departments.
           </p>
           <p>
@@ -52,7 +52,7 @@ const Case_studiesfive = () => {
         <div className="col-md-6">
           <div className="card h-100 shadow-sm">
           <div className="card-body" style={{ fontFamily: 'Inter, sans-serif' }}>
-  <h5 className="card-title text-danger text-center fw-bold mb-3">Namma People’s Approach</h5>
+  <h5 className="card-title text-danger text-center fw-bold mb-3">Hrify BPM’s Approach</h5>
   <ul className="list-unstyled text-muted">
     <li>• Developed geo-targeted job campaigns focusing on high-skill labor zones to ensure localized efficiency.</li>
      <br />

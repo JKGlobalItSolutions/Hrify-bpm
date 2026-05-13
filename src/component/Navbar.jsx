@@ -13,10 +13,10 @@ const Navbar = () => {
       <div className="bg-danger text-white py-1 small">
         <div className="container d-flex flex-column flex-md-row justify-content-between align-items-center text-center text-md-start">
           <div>
-            <i className="fas fa-phone-alt me-2"></i> +91 98765 43210
+            <i className="fas fa-phone-alt me-2"></i> +91 8608600778
           </div>
           <div>
-            <i className="fas fa-envelope me-2"></i> info@jkcompany.com
+            <i className="fas fa-envelope me-2"></i> support@hrifybpm.com
           </div>
         </div>
       </div>

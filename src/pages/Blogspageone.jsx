@@ -44,9 +44,9 @@ const Blogspageone = () => {
         </div>
       </div>
 
-      <h5 className="mt-4 text-danger text-center">Namma People: Supporting the Shift</h5>
+      <h5 className="mt-4 text-danger text-center">Hrify BPM: Supporting the Shift</h5>
       <p className="bg-danger bg-opacity-10 p-3 rounded">
-        With the increasing demand for flexible, remote care, <strong>Namma People</strong> helps connect hospitals
+        With the increasing demand for flexible, remote care, <strong>Hrify BPM</strong> helps connect hospitals
         with professionals skilled in telehealth. Our mission is to support both patient care and staff well-being
         through technology and human connection.
       </p>
@@ -57,13 +57,13 @@ const Blogspageone = () => {
 
       <h4 className="mt-4 text-danger text-center">The Future of Healthcare Staffing</h4>
       <p className="bg-danger bg-opacity-10 p-3 rounded">
-        As hospitals evolve, <strong>Namma People</strong> is here to help them find and retain the right talent—ensuring
+        As hospitals evolve, <strong>Hrify BPM</strong> is here to help them find and retain the right talent—ensuring
         that caregivers and patients alike are cared for. Let’s build a sustainable, human-first future for healthcare.
       </p>
 
       <div className="mt-4 text-center">
         <Link to="/contact" className="btn btn-danger px-4 py-2">
-          Contact Namma People Today
+          Contact Hrify BPM Today
         </Link>
       </div>
     </div>

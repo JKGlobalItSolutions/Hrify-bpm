@@ -1,10 +1,78 @@
+:root {
+  --primary-blue: #0080a7;
+  --accent-blue: #00b4d8;
+  --dark-blue: #006b8a;
+  --deep-dark: #0f172a;
+  --light-blue-bg: #e0f7ff;
+  --gradient-blue: linear-gradient(135deg, #0080a7 0%, #00b4d8 100%);
+  --gradient-dark-blue: linear-gradient(135deg, #006b8a 0%, #001f2e 100%);
+}
+
 body, html {
     overflow-x: hidden;
     box-sizing: border-box;
-  }
-  
-  img {
+}
+
+img {
     max-width: 100%;
     height: auto;
-  }
-  
+}
+
+/* Bootstrap Danger & Primary Overrides */
+.text-danger, .text-primary {
+    color: var(--primary-blue) !important;
+}
+
+.bg-danger, .bg-primary {
+    background-color: var(--primary-blue) !important;
+}
+
+.bg-danger-subtle, .bg-primary-subtle {
+    background-color: var(--light-blue-bg) !important;
+}
+
+.btn-danger {
+    background-color: var(--primary-blue) !important;
+    border-color: var(--primary-blue) !important;
+    transition: all 0.3s ease !important;
+}
+
+.btn-primary {
+    background-color: var(--primary-blue) !important;
+    border-color: var(--primary-blue) !important;
+    transition: all 0.3s ease !important;
+}
+
+.btn-primary:hover, .btn-danger:hover {
+    background-color: var(--dark-blue) !important;
+    border-color: var(--dark-blue) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 128, 167, 0.2);
+}
+
+.btn-outline-danger, .btn-outline-primary {
+    color: var(--primary-blue) !important;
+    border-color: var(--primary-blue) !important;
+}
+
+.btn-outline-danger:hover, .btn-outline-primary:hover {
+    background-color: var(--primary-blue) !important;
+    color: white !important;
+}
+
+.border-danger, .border-primary {
+    border-color: var(--primary-blue) !important;
+}
+
+/* Custom Theme Utilities */
+.bg-theme-primary {
+    background-color: var(--primary-blue) !important;
+}
+
+.text-theme-primary {
+    color: var(--primary-blue) !important;
+}
+
+.gradient-theme {
+    background: var(--gradient-blue) !important;
+}

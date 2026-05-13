@@ -86,7 +86,7 @@ const Whoweare = () => {
       <section
         className="py-5"
         style={{
-          background: 'linear-gradient(90deg, #b30000 0%, #ff4d4d 100%)',
+          background: 'linear-gradient(90deg, #0080a7 0%, #00b4d8 100%)',
           color: 'white'
         }}
       >

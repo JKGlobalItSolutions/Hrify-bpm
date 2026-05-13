@@ -118,7 +118,7 @@ const Managedservices = () => {
       {/* CTA for Job Seekers */}
       <section className="bg-danger-subtle text-white text-center py-5">
         <div className="container">
-          <h2 className="mb-3 text-danger">Start a Career With Namma people Today!</h2>
+          <h2 className="mb-3 text-danger">Start a Career With Hrify BPM Today!</h2>
           <Link className="btn btn-outline-danger" to='/careers/Hiretalent'>Apply Now</Link>
         </div>
       </section>

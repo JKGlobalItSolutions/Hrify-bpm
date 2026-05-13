@@ -5,7 +5,7 @@ const Case_studiestwo = () => {
   return (
     <div className="container my-5">
       <h1 className="text-center text-danger mb-2">
-        Namma People’s Targeted Hiring Strategy for a Leading US Telecom Provider
+        Hrify BPM’s Targeted Hiring Strategy for a Leading US Telecom Provider
       </h1>
     
       <div className="card mb-4 shadow-sm border-1">
@@ -15,12 +15,12 @@ const Case_studiestwo = () => {
         <div className="card-body">
           <h5 className="card-title text-danger text-center fw-bold">Executive Summary</h5>
           <p className="card-text text-muted">
-            A top-tier wireless telecommunications provider in the United States partnered with <strong className="text-dark">Namma People</strong> to overcome an ambitious hiring challenge.
+            A top-tier wireless telecommunications provider in the United States partnered with <strong className="text-dark">Hrify BPM</strong> to overcome an ambitious hiring challenge.
             Within just <strong className="text-dark">three weeks</strong>, 350+ skilled professionals were onboarded across two mission-critical locations:
             <strong className="text-dark"> San Jose, Costa Rica</strong> and <strong className="text-dark">Ewing, New Jersey</strong>.
           </p>
           <p className="card-text text-muted">
-            This agile hiring strategy helped position <strong className="text-dark">Namma People</strong> as the client’s #1 global BPO partner.
+            This agile hiring strategy helped position <strong className="text-dark">Hrify BPM</strong> as the client’s #1 global BPO partner.
           </p>
         </div>
       </div>
@@ -58,7 +58,7 @@ const Case_studiestwo = () => {
 
       <div className="card mb-4 shadow-sm">
         <div className="card-body">
-          <h5 className="card-title text-danger">Namma People’s Strategy</h5>
+          <h5 className="card-title text-danger">Hrify BPM’s Strategy</h5>
           <ul>
             <li>✅ Custom bilingual talent pipelines</li>
             <li>💻 Virtual interview hubs for speed</li>
@@ -84,7 +84,7 @@ const Case_studiestwo = () => {
         <h5 className="text-center text-danger">Conclusion</h5>
         <p className="text-center">
           With the right people and process, even the tightest deadlines can become success stories.
-          <strong> Namma People</strong> delivers workforce solutions that are fast, focused, and future-ready.
+          <strong> Hrify BPM</strong> delivers workforce solutions that are fast, focused, and future-ready.
         </p>
       </div>
     </div>
