@@ -25,7 +25,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg bg-light sticky-top border-bottom shadow-sm">
         <div className="container">
           {/* Brand */}
-          <a className="navbar-brand d-flex align-items-center fw-semibold" href="/">
+          <Link className="navbar-brand d-flex align-items-center fw-semibold" to="/">
             <img
               src={logo}
               alt=""
@@ -38,7 +38,7 @@ const Navbar = () => {
             />
             
 
-          </a>
+          </Link>
 
 
 
@@ -61,7 +61,7 @@ const Navbar = () => {
             <ul className="navbar-nav ms-auto gap-4">
 
               <li className="nav-item">
-                <a className="nav-link text-dark" href="/">Home</a>
+                <Link className="nav-link text-dark" to="/">Home</Link>
               </li>
 
               <li className="nav-item dropdown">

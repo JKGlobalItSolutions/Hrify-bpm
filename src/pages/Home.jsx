@@ -28,8 +28,7 @@ const Home = () => {
     <img
       src={homebanner}
       alt="About HRIFY"
-      style={{ width: '100%', height: '400px', objectFit: 'cover' }}
-      className="img-fluid rounded shadow"
+      className="img-fluid rounded shadow responsive-banner"
     />
   </div>
 </section>

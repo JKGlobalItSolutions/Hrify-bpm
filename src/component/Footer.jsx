@@ -45,7 +45,7 @@ const Footer = () => {
 
   {/* Bottom bar */}
   <div className="py-3 text-white" style={{ backgroundColor: '#0080a7' }}>
-    <p className="mb-2">© 2025 Hrify BPM. All Rights Reserved</p>
+    <p className="mb-2">© 2026 Hrify BPM. All Rights Reserved</p>
     {/* Social Icons */}
     <div>
       <a href="#" className="text-white mx-2"><i className="fa-brands fa-facebook-f"></i></a>

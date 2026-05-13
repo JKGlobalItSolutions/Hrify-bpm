@@ -53,11 +53,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <HashRouter basename={
-        process.env.NODE_ENV === "production"
-          ? "/Hrify-bpm"
-          : "/"
-      }>
+    <HashRouter>
     {/* <Router  > */}
       <Navbar />
       

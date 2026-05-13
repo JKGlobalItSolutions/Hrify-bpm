@@ -14,9 +14,8 @@ const Contact = () => {
   <div className="container-fluid text-center px-0">
     <img
       src={contactbanner}
-      alt="About HRIFY"
-      style={{ width: '100%', height: '400px', objectFit: 'cover' }}
-      className="img-fluid rounded shadow"
+      alt="Contact HRIFY"
+      className="img-fluid rounded shadow responsive-banner"
     />
   </div>
 </section>
