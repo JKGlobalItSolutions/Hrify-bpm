@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import findjob from '../assets/imges/about/findjob.jpg'
 
@@ -32,9 +33,9 @@ const FindAjob = () => {
         healthcare, customer service, insurance, and administration. With jkcompany, you’ll find roles where your talent is
         recognized and your ambitions can flourish.
       </p>
-      <a href="#careers" className="btn btn-danger btn-lg mt-3">
+      <Link to="/contact" className="btn btn-danger btn-lg mt-3">
         Check Current Openings
-      </a>
+      </Link>
     </div>
   </div>
 </section>

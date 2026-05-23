@@ -7,11 +7,23 @@ import img2 from '../assets/imges/home/img2.jpg'
 import img3 from '../assets/imges/home/img3.jpg'
 
 // company
-import accent from '../assets/imges/home/accenture.jpg'
-import cognizant from '../assets/imges/home/cognine.jpg'
-import genpact from '../assets/imges/home/genpact.jpg'
-import infosys from '../assets/imges/home/infosy.jpg'
-import techmach from '../assets/imges/home/techmach.jpg'
+// import accent from '../assets/imges/home/accenture.jpg'
+// import cognizant from '../assets/imges/home/cognine.jpg'
+// import genpact from '../assets/imges/home/genpact.jpg'
+// import infosys from '../assets/imges/home/infosy.jpg'
+// import techmach from '../assets/imges/home/techmach.jpg'
+
+
+import cl1 from '../assets/imges/home/cl1.png'
+import cl2 from '../assets/imges/home/cl2.png'
+import cl3 from '../assets/imges/home/cl3.png'
+import cl4 from '../assets/imges/home/cl4.png'
+import cl5 from '../assets/imges/home/cl5.png'
+import cl6 from '../assets/imges/home/cl6.png'
+import cl7 from '../assets/imges/home/cl7.png'
+
+
+
 
 // banner
 import homebanner from '../assets/imges/home/homebanner.jpg'
@@ -66,13 +78,13 @@ const Home = () => {
         </div>
       </section>
 
-    
+
 {/* Trusted Partners */}
-<section className="text-center py-4 bg-danger-subtle">
-  <h5 className="text-danger">TRUSTED PARTNERS</h5>
+<section className="text-center py-4  bg-danger-subtle">
+  <h5 className="text-danger mb-5">TRUSTED PARTNERS</h5>
 
   <marquee behavior="alternate" direction="left" scrollamount="">
-    {[infosys, techmach, cognizant, genpact, accent].map((img, i) => (
+    {[ cl1, cl2, cl3, cl4, cl5, cl6, cl7].map((img, i) => (
       <img
         key={i}
         src={img}

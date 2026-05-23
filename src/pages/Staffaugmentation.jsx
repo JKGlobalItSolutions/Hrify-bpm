@@ -125,7 +125,7 @@ const Staffaugmentation = () => {
 
       {/* Why Choose Us */}
       <section className="mb-5">
-        <h2 className="text-center mb-4">Why Choose Nammapeople?</h2>
+        <h2 className="text-center mt-5 mb-4">Why Choose Nammapeople?</h2>
         <div className="row g-4">
           {[
             ['True Human Approach', 'Empathy-driven, inclusive staffing for Non-IT sectors.'],
