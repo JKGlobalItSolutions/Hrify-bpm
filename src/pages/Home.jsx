@@ -282,7 +282,7 @@ const Home = () => {
               />
               <div style={{ position: 'relative', zIndex: 2 }}>
                 <h6 className="text-uppercase">Job Seekers</h6>
-                <h2 className="fw-bold">Start a Career with Nammapeople  <br /> Company Today</h2>
+                <h2 className="fw-bold">Start a Career with HrifyBPM  <br /> Company Today</h2>
                 {/* <button className="btn btn-light mt-3">Apply Now</button> */}
                 <Link to="/careers/Find-a-job" className="btn btn-light px-4 mt-3">
                   Apply Now

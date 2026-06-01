@@ -125,7 +125,7 @@ const Staffaugmentation = () => {
 
       {/* Why Choose Us */}
       <section className="mb-5">
-        <h2 className="text-center mt-5 mb-4">Why Choose Nammapeople?</h2>
+        <h2 className="text-center mt-5 mb-4">Why Choose HrifyBPM?</h2>
         <div className="row g-4">
           {[
             ['True Human Approach', 'Empathy-driven, inclusive staffing for Non-IT sectors.'],
@@ -148,7 +148,7 @@ const Staffaugmentation = () => {
       {/* Job Seekers CTA */}
       <section className="py-5 bg-danger text-white text-center rounded-2 shadow">
         <h2 className="mb-2">JOB SEEKERS</h2>
-        <h4 className="fw-light">Start a Career With Nammapeople Today!</h4>
+        <h4 className="fw-light">Start a Career With HrifyBPM Today!</h4>
 
         <Link className="btn btn-lg btn-light mt-3" to="/careers/Hiretalent">Apply Now</Link>
       </section>

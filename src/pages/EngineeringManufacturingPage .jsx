@@ -16,7 +16,7 @@ const EngineeringManufacturingPage = () => (
       <h1 className="display-4 fw-bold text-danger">Engineering & Manufacturing</h1>
       <p className="lead">Connecting Businesses with Specialized Talent</p>
       <p className="text-muted mx-auto" style={{ maxWidth: '700px' }}>
-        At <strong>Nammapeople</strong>, we deliver comprehensive staffing solutions for the engineering and manufacturing sectors—addressing your unique workforce challenges with precision, innovation, and expertise.
+        At <strong>HrifyBPM</strong>, we deliver comprehensive staffing solutions for the engineering and manufacturing sectors—addressing your unique workforce challenges with precision, innovation, and expertise.
       </p>
       <Link className="btn btn-lg btn-danger mt-3" to="/contact">Get Started</Link>
     </section>
@@ -133,7 +133,7 @@ const EngineeringManufacturingPage = () => (
 
     {/* Why Choose Us */}
     <section className="mb-5">
-      <h2 className="text-center text-dark mb-4">Why Choose Nammapeople</h2>
+      <h2 className="text-center text-dark mb-4">Why Choose HrifyBPM</h2>
       <div className="row justify-content-center">
         <div className="col-md-10">
           <ul className="list-group list-group-flush shadow-sm">

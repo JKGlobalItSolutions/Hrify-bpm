@@ -23,7 +23,7 @@ const Contact = () => {
 
       <div className="container py-5">
         <div className="row">
-          {/* Connect With Nammapeople Form Column */}
+          {/* Connect With HrifyBPM Form Column */}
           <div className="col-md-6">
             <div className="bg-white p-4 rounded shadow">
               <h3 className="text-center text-danger mb-4">Connect With Hrify BPM</h3>

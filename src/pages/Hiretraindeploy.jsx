@@ -23,7 +23,7 @@ const Hiretraindeploy = () => {
           <div className="col-md-8">
             <h3 className="mb-3">HTD Solution Overview</h3>
             <p>
-            Nammapeople HTD solution sources, trains, and deploys skilled talent to meet your dynamic staffing needs.
+            HrifyBPM HTD solution sources, trains, and deploys skilled talent to meet your dynamic staffing needs.
               This end-to-end workforce management model ensures your team is prepared and productive from day one.
             </p>
             <p>
@@ -147,7 +147,7 @@ const Hiretraindeploy = () => {
       {/* CTA */}
       <section className="text-center mt-5">
         <h3>JOB SEEKERS</h3>
-        <p className="lead">Start a Career With Nammapeople Today!</p>
+        <p className="lead">Start a Career With HrifyBPM Today!</p>
         <Link className="btn btn-danger btn-lg" to='/careers/Find-a-job'>Apply Now</Link>
       </section>
     </div>

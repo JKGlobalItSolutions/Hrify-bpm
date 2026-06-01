@@ -26,7 +26,7 @@ const Managedservices = () => {
       <section className="container py-5 text-center">
         <h2 className="mb-4">Managed Services Overview</h2>
         <p className="text-muted mb-4">
-          Managing teams requires more than oversight—it demands insight. At Nammapeople, we align hiring, tracking, and growth
+          Managing teams requires more than oversight—it demands insight. At HrifyBPM, we align hiring, tracking, and growth
           strategies to keep your operations smooth and scalable.
         </p>
         <div className="row justify-content-center">

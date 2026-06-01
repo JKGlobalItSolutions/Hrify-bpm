@@ -16,7 +16,7 @@ const Casestudies = () => {
         title: 'Rapid Insurance Staffing in 8 Seconds',
         date: 'Jan 29, 2025',
         desc:
-          'During a nationwide natural disaster, a Fortune 500 insurance company urgently needed qualified claims processors. Nammapeople stepped in with lightning-fast response — deploying 42 specialized agents in just 8 seconds. The effort reduced downtime and allowed the client to maintain exceptional service levels during a critical time.',
+          'During a nationwide natural disaster, a Fortune 500 insurance company urgently needed qualified claims processors. HrifyBPM stepped in with lightning-fast response — deploying 42 specialized agents in just 8 seconds. The effort reduced downtime and allowed the client to maintain exceptional service levels during a critical time.',
         img: Blogsimg_4,
         link: '/services/Case_studiesone'
       },
@@ -24,7 +24,7 @@ const Casestudies = () => {
         title: 'Global BPO Success: 350+ Hires in 3 Weeks',
         date: 'Dec 10, 2024',
         desc:
-          'A global BPO giant faced a massive expansion challenge across Latin America and Southeast Asia. Nammapeople delivered a tailored recruitment strategy that sourced, vetted, and placed over 350 support professionals in just 21 days — accelerating business continuity and onboarding success.',
+          'A global BPO giant faced a massive expansion challenge across Latin America and Southeast Asia. HrifyBPM delivered a tailored recruitment strategy that sourced, vetted, and placed over 350 support professionals in just 21 days — accelerating business continuity and onboarding success.',
         img: Blogsimg4,
         link: '/services/Case_studiestwo'
       },
@@ -32,7 +32,7 @@ const Casestudies = () => {
         title: 'Hiring HVAC & Electrical Engineers at Scale',
         date: 'Dec 10, 2024',
         desc:
-          'A top-tier energy and infrastructure firm needed niche engineering talent across the U.S. Nammapeople deep technical recruiting network enabled rapid placement of HVAC, plumbing, and electrical engineers — ensuring projects moved forward without delay.',
+          'A top-tier energy and infrastructure firm needed niche engineering talent across the U.S. HrifyBPM deep technical recruiting network enabled rapid placement of HVAC, plumbing, and electrical engineers — ensuring projects moved forward without delay.',
         img: Blogsimg5,
         link: '/services/Case_studiethree'
       },
@@ -40,7 +40,7 @@ const Casestudies = () => {
         title: 'EV Leader Gears Up With 200+ Workforce Hires',
         date: 'Dec 10, 2024',
         desc:
-          'A major electric vehicle manufacturer with operations in the U.S. and Europe sought engineering, design, and manufacturing talent for four Gigafactories. Nammapeople assembled a cross-functional hiring team and delivered 200+ professionals — enabling on-time production milestones.',
+          'A major electric vehicle manufacturer with operations in the U.S. and Europe sought engineering, design, and manufacturing talent for four Gigafactories. HrifyBPM assembled a cross-functional hiring team and delivered 200+ professionals — enabling on-time production milestones.',
         img: Blogsimg6,
         link: '/services/Case_studiesfive'
       },
@@ -48,7 +48,7 @@ const Casestudies = () => {
         title: '130+ Financial Services Reps in 3 Weeks',
         date: 'Dec 10, 2024',
         desc:
-          'With open enrollment season approaching, a financial services client needed rapid support. Nammapeople built and deployed a customized recruitment pipeline, hiring 130+ retirement plan service reps in under 3 weeks. Performance KPIs improved by 38% post-hire.',
+          'With open enrollment season approaching, a financial services client needed rapid support. HrifyBPM built and deployed a customized recruitment pipeline, hiring 130+ retirement plan service reps in under 3 weeks. Performance KPIs improved by 38% post-hire.',
         img: Blogsimg7,
         link: '/services/Case_studiessix'
       }
@@ -59,7 +59,7 @@ const Casestudies = () => {
         <section className="text-center mb-5">
           <h2 className="display-5 fw-bold text-danger">Case Studies</h2>
           <p className="lead mx-auto" style={{ maxWidth: '750px' }}>
-            Real-world success stories that demonstrate how Nammapeople helps businesses scale fast, hire smart, and lead with excellence.
+            Real-world success stories that demonstrate how HrifyBPM helps businesses scale fast, hire smart, and lead with excellence.
           </p>
         </section>
   
